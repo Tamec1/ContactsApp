@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+<contact>
+	<first_name>Peter</first_name>
+	<last_name>Parker</last_name>
+	<phone_number>0177-1603434</phone_number>
+	<notes>The guy who likes spiders</notes>
+</contact>
+<contact>
+	<first_name>Jimmy</first_name>
+	<last_name>Hendrix</last_name>
+	<phone_number>0160-244888</phone_number>
+	<notes>The Famous musician</notes>
+</contact>
+<contact>
+	<first_name>Emily</first_name>
+	<last_name>Hart</last_name>
+	<phone_number>0155-5108794</phone_number>
+	<notes>Sister </notes>
+</contact>
+<contact>
+	<first_name>Tim</first_name>
+	<last_name>Burton</last_name>
+	<phone_number>01605455887</phone_number>
+	<notes>I dont know who this is</notes>
+</contact>
+<contact>
+	<first_name>Banana</first_name>
+	<last_name>Joe</last_name>
+	<phone_number>01609999987</phone_number>
+	<notes>Banannas are yellow</notes>
+</contact>
+</contacts>

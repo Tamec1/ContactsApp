@@ -1,3 +1,6 @@
+# Java Out folder
+/out
+
 # Logs
 logs
 *.log
